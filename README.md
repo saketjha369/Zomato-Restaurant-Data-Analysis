@@ -167,6 +167,10 @@ An interactive Excel dashboard was created to summarize the major findings of th
 
 The dashboard provides a consolidated view of restaurant distribution, ratings, cuisines, cost analysis, and other important business metrics.
 
+### Dashboard Preview
+
+![Zomato Dashboard](Zomato_Dashboard.png)
+
 ---
 
 ## 📂 Project Files
