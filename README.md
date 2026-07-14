@@ -176,7 +176,7 @@ The dashboard provides a consolidated view of restaurant distribution, ratings, 
 ## 📂 Project Files
 
 - `Zomato_Project_Excel.xlsx` - Excel workbook containing data cleaning, formulas, Pivot Tables, analysis, and dashboard.
-- `Zomato_Project_Documentation.docx` - Detailed documentation containing objective and subjective analysis.
+- `Zomato_Project_Documentation.pdf` - Detailed documentation containing objective and subjective analysis.
 - `Zomato PPT.pdf` - Final project presentation containing key insights and business recommendations.
 
 ---
